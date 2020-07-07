@@ -1,0 +1,23 @@
+.options {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.inputWrapper {
+  padding: 20px;
+}
+
+.inputComp {
+  width: 100%;
+}
+
+.errorText {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  color: red;
+  margin-top: 7px;
+  font-size: 14px;
+}
